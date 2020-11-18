@@ -1,4 +1,4 @@
-# New Project
+# GifMaker
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
