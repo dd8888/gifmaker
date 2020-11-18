@@ -40,7 +40,7 @@ function App() {
 
       <input type="file" onChange={(e) => setVideo(e.target.files?.item(0))} />
 
-      <h3>Result!</h3>
+      <h3>Result</h3>
 
       <button onClick={convertToGif}>Convert</button>
 
